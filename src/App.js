@@ -1,5 +1,4 @@
-import { useSelector } from "react-redux"
-import { useDispatch } from "react-redux";
+import { useSelector, useDispatch } from "react-redux"
 import { bindActionCreators } from 'redux'
 import * as actionCreators from "./state/action-creator/index"
 
